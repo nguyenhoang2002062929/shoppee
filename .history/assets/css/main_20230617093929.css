@@ -1,0 +1,14 @@
+
+.header{
+    width: 100%;
+    height: 120px;
+    background-color: #f63f2e;
+}
+.header__nav{
+    display: flex;
+    justify-content: space-between;
+
+}
+.header__nav-list{
+    display: flex;
+}
