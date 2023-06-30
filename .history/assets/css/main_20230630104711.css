@@ -424,7 +424,6 @@
 }
 .header__search-input:focus ~ .header__search-history{
     display: block;
-    z-index: 1;
 }
 /* list cart */
 .header__cart-list{
@@ -1021,6 +1020,7 @@
 .footer-footer{
     text-align: center;
     background-color: #f5f5f5;
+    margin-top: 40px;
     padding: 40px 0;
 }
 .footer-policy__list{

@@ -424,7 +424,6 @@
 }
 .header__search-input:focus ~ .header__search-history{
     display: block;
-    z-index: 1;
 }
 /* list cart */
 .header__cart-list{
